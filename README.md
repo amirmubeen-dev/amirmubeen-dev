@@ -1,30 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=230&section=header&text=Amir%20Mubeen&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Systems%20Architect&descSize=18&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=230&section=header&text=Amir%20Mubeen&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Systems%20Architect&descSize=18&descAlignY=60">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+AI+Engineer;Next.js+%7C+React+%7C+Node.js;Agentic+AI+Builder;Building+Scalable+Systems;Welcome+to+My+Profile!&center=true&width=800&height=45">
+<img/>
 </p>
 
-<h2 align="center">🚀 Building Autonomous AI Systems That Think, Act & Scale</h2>
+## 🚀 About Me
 
-<p align="center">
-AI Engineer | Full Stack Architect | LLM Systems Builder <br/>
-📍 Lahore, Pakistan | 🌍 Open to Remote Global Roles
-</p>
+💡 Full Stack AI Developer building intelligent, scalable web & mobile systems  
+🧠 Specialized in Agentic AI, LangChain, LLM Integration & Automation  
+⚡ Experience in Government Level GIS Dashboard (50k+ Users)  
+🌍 Deployed Production Apps using Vercel & Cloud Infrastructure  
 
 ---
 
-# 🧠 AI FIRST — WHO I AM
+## 🌐 Connect With Me
 
-I design and deploy **Agentic AI Systems**, intelligent SaaS platforms, and production-scale full-stack architectures.
+<p align="left">
+<a href="https://linkedin.com/in/amir-mubeen-79009t7790/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- ⚡ Built AI-powered code systems using LangChain + Gemini
-- 📊 Engineered real-time government dashboards (50k+ active users)
-- 🧩 Architected scalable Next.js + Node.js platforms
-- 🔄 CI/CD automated deployments with GitHub Actions
-- ☁ Production deployments on Vercel & cloud infra
+<a href="https://github.com/amirmubeen-dev" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-📬 Contact: **amirmubeen.mw@gmail.com**
+<a href="https://amirmubeen-portfolio.vercel.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://wa.me/923434103197" target="blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
 ---
-
 # 🤖 AI & LLM STACK
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -53,76 +62,69 @@ I design and deploy **Agentic AI Systems**, intelligent SaaS platforms, and prod
 
 ---
 
-# 🏢 GOVERNMENT SCALE EXPERIENCE
+# 🏆 Professional Experience
 
-## National Engineering Services Pakistan (NESPAK)
+### 🏢 Junior Frontend Developer Intern  
+**National Engineering Services Pakistan (NESPAK)**  
+📍 Onsite | May 2025 – August 2025  
 
-- Built real-time GIS tracking dashboard
-- 50,000+ live users
-- Admin control systems
-- Authentication & data security
-- Government Special Education Department
-
----
-
-# 🚀 FLAGSHIP AI PROJECTS
-
-## 🧠 Code Canvas AI
-AI Code Assistant powered by LangChain + Gemini + Local LLM  
-✔ 90%+ coding efficiency  
-✔ Real-time AI execution  
-✔ Modular LLM pipeline architecture  
+- Built real-time GIS tracking dashboard for Government Special Education Department  
+- Implemented authentication & admin dashboards  
+- Managed 50k+ live users  
+- Designed eTransit Government App UI  
 
 ---
 
-## 🧩 Syntax Forge Studio
-Language Builder Platform (100k+ Users)
+# 🚀 Featured Projects
 
-✔ Custom editor + debugger  
-✔ MongoDB-powered admin system  
-✔ GitHub Actions CI/CD automation  
+## 🧠 Syntax Forge Studio – Language Builder
+> 100k+ Users | Full Stack AI Learning Platform
 
----
-
-## 🎓 Eventide Pulse
-University Event Intelligence System  
-
-✔ Role-based dashboards  
-✔ Real-time structured event data  
-✔ Full-stack Next.js architecture  
+- Admin panel with MongoDB
+- Real-time lecture uploads
+- GitHub Actions CI/CD
+- In-browser language editor + debugger
 
 ---
 
-# 📊 ENGINEERING METRICS
+## 🤖 Code Canvas AI – AI Code Assistant
+> LangChain + Gemini + Local LLM
+
+- 90%+ coding efficiency
+- Seamless AI code execution
+- Integrated LangChain pipelines
+
+---
+
+## 🎓 Eventide Pulse – UniEvent Manager
+
+- Centralized university event discovery system
+- Role-based dashboards (Student | Organizer | Admin)
+- Real-time reliable event updates
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amirmubeen-dev&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://streak-stats.demolab.com?user=amirmubeen-dev&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmubeen-dev&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=amirmubeen-dev&theme=radical" height="170"/>
 </p>
 
 ---
 
-# 🐍 SYSTEM ACTIVITY MAP
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirmubeen-dev/amirmubeen-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 💼 WHAT I DELIVER
+# 🎯 Current Focus
 
-✔ Agentic AI Architectures  
-✔ Production-Ready SaaS Systems  
-✔ LLM Toolchains & Automation  
-✔ Secure Authentication & Role Systems  
-✔ Cloud Optimized Deployments  
-✔ Performance Scalable Infrastructure  
+- Building Agentic AI Systems
+- Scaling SaaS Platforms
+- Advanced LLM Toolchains
+- Production-grade Next.js Architectures
 
 ---
 
-<h3 align="center">⚡ Engineering AI Systems That Operate Beyond Prompts</h3>
+<h3 align="center">⚡ Building Intelligent Systems That Scale</h3>
