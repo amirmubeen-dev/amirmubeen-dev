@@ -16,7 +16,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/amir-mubeen-79009t7790/" target="blank">
+<a href="https://linkedin.com/in/amir-mubeen-79009t7790/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
