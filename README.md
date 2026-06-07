@@ -253,8 +253,6 @@ Docker • GitHub Actions • Vercel • Cloudflare • CI/CD
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amirmubeen-dev&show_icons=true&theme=radical" height="170"/>
-
 <img src="https://streak-stats.demolab.com?user=amirmubeen-dev&theme=radical" height="170"/>
 </p>
 
